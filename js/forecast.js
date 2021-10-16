@@ -1,4 +1,4 @@
-const key = "gcIstBj7InS7OKU0OKD1QXgVbxZcPPMR"; //free account
+const key = "gcIstBj7InS7OKU0OKD1QXgVbxZcPPMR"; //free practice account
 
 // get weather information
 const getWeather = async (id) => {
